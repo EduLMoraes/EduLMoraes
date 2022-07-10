@@ -1,3 +1,16 @@
+![](https://img.shields.io/badge/-JavaScript-black/?logo=JavaScript&color=blueviolet)
+![](https://img.shields.io/badge/-HTML-red/?logo=HTML5&color=black)
+![](https://img.shields.io/badge/-CSS3-blue/?logo=css3&color=black)
+![](https://img.shields.io/badge/-C%23-white/?logo=C#&color=blue)
+![](https://img.shields.io/badge/-C%2B%2B-critical/?logo=C%2B%2B&color=black)
+![](https://img.shields.io/badge/-NodeJS-orange/?logo=node.js&color=black)
+![](https://img.shields.io/badge/-TypeScript-informational/?logo=TypeScript&color=black)
+![](https://img.shields.io/badge/-SQLite-lightblue/?logo=sqlite&color=black)
+![](https://img.shields.io/badge/-MongoDB-brightgreen/?logo=MongoDB&color=black)
+![](https://img.shields.io/badge/-GitHub-grey/?logo=GitHub&color=black)
+![](https://img.shields.io/badge/-R-important/?logo=R&color=black)
+![](https://img.shields.io/badge/-postgress-blueviolet/?logo=postgresql&color=black)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreaes&layout=compact)](https://github.com/EduardoMoreaes/github-readme-stats)
 
 ![Snake animation](https://github.com/EduardoMoreaes/EduardoMoreaes/blob/output/github-contribution-grid-snake.svg)
