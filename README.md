@@ -3,10 +3,10 @@
 ## _Welcome!_ - _Bem vindo!_
 
 > _i am a student of T.I. and a artist of drawn realistc,_
-> _avanced in english, native in portuguese, starter in spanish._
+> _mellommann in english, native in portuguese, starter in spanish._
 
 > _Eu sou um estudante de T.I. e um artista de desenho realista,_
-> _avançado em ingles, nativo em portugues e iniciante em espanhol._
+> _intermediário em inglês, nativo em português e iniciante em espanhol._
 
 
 
