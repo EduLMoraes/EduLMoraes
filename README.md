@@ -1,4 +1,5 @@
-# Eduardo Moraes 👨‍🎨👨‍💻
+# Eduardo Moraes 👨‍🎨👨‍💻                     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eduardomoreaes)
+
 
 ## _Welcome!_ - _Bem vindo!_
 
