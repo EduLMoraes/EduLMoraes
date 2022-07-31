@@ -37,7 +37,8 @@
 
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreaes&layout=compact)](https://github.com/EduardoMoreaes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreaes&layout=compact)](https://github.com/EduardoMoreaes/github-readme-stats) 
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=EduardoMoreaes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
 ![Snake animation](https://github.com/EduardoMoreaes/EduardoMoreaes/blob/output/github-contribution-grid-snake.svg)
 
