@@ -1,5 +1,7 @@
 # 💫 About Me:
-👨‍🏫    Self-taught person, forever studying new technologies for a better version me || autodidata, sempre estudando novas tecnologias para uma versão melhor de mim;<br>🧑‍💻    Full-Stack;<br>👨‍🎓    Studying in Integrated IT || Estudando T.I. Integrado;<br>💼    Provider of services for Anri Software now || Atualmente prestando serviços para Anri Software.<br><br><br> Languages 🇺🇸 || 🇧🇷 Linguagens
+👨‍🏫    Self-taught person, forever studying new technologies for a better version me || autodidata, sempre estudando novas tecnologias para uma versão melhor de mim;<br>🧑‍💻    Full-Stack;<br>👨‍🎓    Studying in Integrated IT || Estudando T.I. Integrado;<br>
+<br><br><br>
+Languages 🇺🇸 || 🇧🇷 Linguagens
 
 
 ## 🌐 Socials:
