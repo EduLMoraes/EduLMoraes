@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🏫    Self-taught person, forever studying new technologies for a better version me || autodidata, sempre estudando novas tecnologias para uma versão melhor de mim;<br>🧑‍💻    Full-Stack;<br>👨‍🎓    Studying in Integrated IT || Estudando T.I. Integrado;<br>
+👨‍🏫    Self-taught person, forever studying new technologies for a better version me || autodidata, sempre estudando novas tecnologias para uma versão melhor de mim;<br>🧑‍💻    Full-Stack;<br>👨‍🎓    Studying in TADS || Estudando TADS;<br>
 <br><br><br>
 Languages 🇺🇸 || 🇧🇷 Linguagens
 
