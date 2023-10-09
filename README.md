@@ -35,7 +35,6 @@ Languages 🇺🇸 || 🇧🇷 Linguagens
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EduardoMoreaes&theme=shades-of-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreaes&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Snake animation](https://github.com/EduardoMoreaes/EduardoMoreaes/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
