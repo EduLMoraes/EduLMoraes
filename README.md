@@ -29,12 +29,12 @@ Languages 🇺🇸 || 🇧🇷 Linguagens
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EduardoMoreaes&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=EduLMoreaes&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=EduardoMoreaes&theme=shades-of-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMoreaes&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EduLMoreaes&theme=shades-of-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduLMoreaes&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
