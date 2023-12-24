@@ -34,7 +34,8 @@ Languages 🇺🇸 || 🇧🇷 Linguagens
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EduLMoraes&theme=shades-of-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduLMoraes&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduLMoraes&hide=javascript,css,scss,html,tcl,cython,tex&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
