@@ -1,9 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=EduardoMoreaes&icon=5&color=1)](https://visitcount.itsvg.in)
 
-## 💫 About Me:
-👨‍🏫    Self-taught person, forever studying new technologies for a better version me || autodidata, sempre estudando novas tecnologias para uma versão melhor de mim;<br>🧑‍💻    Back-end;<br>👨‍🎓    Studying in TADS || Estudando TADS;<br>
-<br>
-Languages 🇺🇸 || 🇧🇷 Linguagens
+<p align="center">
+  
+  ```javascript
+  console.log("Welcome World! 👋");
+  ```
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/BloodThrinisty#8472) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100072420644505) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardo_._moraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-lopes-de-moraes-a572541bb) 
